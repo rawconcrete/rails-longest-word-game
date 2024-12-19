@@ -6,3 +6,5 @@ class GamesController < ApplicationController
   def score
   end
 end
+
+# test comment
